@@ -105,6 +105,7 @@ a{
   .image {
     width: 100px;
     padding: 10px;
+    border-radius: 50%;
   }
 
   .address {
